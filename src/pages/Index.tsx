@@ -624,8 +624,8 @@ const Index = () => {
             <div>
               <h3 className="font-bold text-lg mb-4">Контакты</h3>
               <ul className="space-y-2 text-sm opacity-80">
-                <li>Email: info@debt-help.ru</li>
-                <li>Телефон: +7 (495) 123-45-67</li>
+                <li>Email: vitaliy-chernov-2012@mail.ru</li>
+                <li>Телефон: +7 9294390444</li>
                 <li>Telegram: @debt_help_bot</li>
               </ul>
             </div>
